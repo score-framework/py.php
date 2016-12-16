@@ -45,5 +45,7 @@ setup(
     license='LGPL',
     install_requires=[
         'score.init',
+        'score.tpl',
+        'score.serve',
     ],
 )
